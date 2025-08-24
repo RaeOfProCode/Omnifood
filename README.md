@@ -1,7 +1,9 @@
 # Omnifood 🍴  
 
 Omnifood is a **responsive landing page** for a fictional meal delivery service focused on healthy eating.  
-The site was created as part of a front-end development course and demonstrates best practices in **modern HTML & CSS design**.  
+The site was created as part of a front-end development course and demonstrates best practices in **modern HTML & CSS design**. 
+
+**Deployment:** https://raeofprocode.github.io/Omnifood/
 
 ---
 
